@@ -6,11 +6,9 @@
 #define PA_PUNTO_H
 
 
-
 class punto {
 
 };
-
 
 
 #endif //PA_PUNTO_H
